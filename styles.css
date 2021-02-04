@@ -1,0 +1,21 @@
+.currentLumi {
+    position: absolute;
+    width: 99.5%;
+    font-size: 4vh;
+    text-align: center;
+}
+.paivaTaulukko {
+    position: absolute;
+    width:99%;
+    top: 775px;
+    margin: 0 auto;
+}
+#paivanKeskiarvo {
+    position: absolute;
+    top: 0%;
+    left: 5%;
+    display: inline-block;
+}
+td {
+    text-align: center;
+}
