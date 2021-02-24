@@ -1,6 +1,6 @@
 # Too Much Snow
 
-Raspberry Pi powered snow depth meter
+Raspberry Pi powered snow depth meter/alarm
 
 ### Features:
 - Raspberry measures snow depth
